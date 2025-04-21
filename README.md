@@ -9,10 +9,10 @@ This is a personal resume website built using **Next.js** and **Tailwind CSS**, 
 
 ##  Tech Stack
 
-- **Framework**: Next.js (App Router)
+- **Framework**: Next.js 
 - **Styling**: Tailwind CSS
-- **Language**: TypeScript / JavaScript (React)
-- **Deployment**: Vercel (or similar)
+- **Language**: TypeScript 
+- **Deployment**: Vercel
 
 ##  Features
 
@@ -25,7 +25,7 @@ This is a personal resume website built using **Next.js** and **Tailwind CSS**, 
 ##  Getting Started
 
 ```bash
-git clone https://github.com/yourusername/resume-website.git
+git clone https://github.com/Shivam-fibo/Resume.git
 cd resume-website
 npm install
 npm run dev
