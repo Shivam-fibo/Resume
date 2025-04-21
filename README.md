@@ -1,4 +1,4 @@
-/**
+
 # Shivam Gupta - Resume Website
 
 This is a personal resume website built using **Next.js** and **Tailwind CSS**, showcasing  education, skills, work experience, projects, and extracurricular activities.
